@@ -1,0 +1,12 @@
+[
+	{
+		"caption": "View: Keep Minimap Enabled on this Tab",
+		"command": "minimap_enable_for_view",
+		"checkbox": true,
+	},
+	{
+		"caption": "View: Keep Minimap Disabled on this Tab",
+		"command": "minimap_disable_for_view",
+		"checkbox": true,
+	}
+]
